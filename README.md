@@ -65,7 +65,3 @@
 <p align="left">🌐 Portfólio → https://vaguiarb.dev<br>💼 LinkedIn → https://linkedin.com/in/vinicius-aguiar000<br>📧 Email → viniciusaguiarbenvinda@gmail.com</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ViniciusAguiarBenvinda/ViniciusAguiarBenvinda/output/snake.svg" alt="Snake animation" />
-
-###
