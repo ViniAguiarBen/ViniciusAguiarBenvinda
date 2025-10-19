@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou apaixonado por tecnologia, automação e desenvolvimento de software.  <br>Tenho experiência em projetos reais, atuando como FullStack, desde a concepção até o deploy em ambientes produtivos.  <br>Busco sempre melhorar processos e criar programas eficientes e seguros.</p>
+<p align="left">Sou apaixonado por tecnologia, automação e desenvolvimento de software.  <br>Tenho experiência em projetos reais, atuando como FullStack, desde a concepção até o deploy em ambientes produtivos.  <br>Busco sempre melhorar processos e criar programas eficientes e seguros!</p>
 
 ###
 
